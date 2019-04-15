@@ -1,1 +1,2 @@
-bygdd# simple-html
+# simple-html 
+![alt text](img/logo.png)
