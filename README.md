@@ -1,2 +1,2 @@
-# simple-html 
-![alt text](img/logo.png)
+# simple-html
+![alt text](simple-html/src/img/logo.png)
